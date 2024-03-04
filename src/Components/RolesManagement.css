@@ -1,0 +1,37 @@
+/* Update your 'RolesManagement.css' file or include it in your component as a style object */
+
+.roles-container {
+  max-width: 800px; /* Adjust the maximum width based on your layout */
+  margin: auto; /* Center the table within the page */
+  padding: 20px; /* Add some padding around the table */
+}
+
+.roles-table {
+  width: 100%;
+  border-collapse: collapse;
+  margin-top: 20px;
+  border: 1px solid #ddd; /* Add a border to the table */
+}
+
+.roles-table th, .roles-table td {
+  border: 1px solid #ddd;
+  padding: 8px;
+  text-align: left;
+}
+
+.roles-table th {
+  background-color: #f2f2f2;
+}
+
+.roles-table button {
+  background-color: #4CAF50;
+  color: white;
+  padding: 6px 10px;
+  border: none;
+  border-radius: 4px;
+  cursor: pointer;
+}
+
+.roles-table button:hover {
+  background-color: #45a049;
+}

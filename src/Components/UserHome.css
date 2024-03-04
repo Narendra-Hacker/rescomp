@@ -1,0 +1,40 @@
+/* UserHome.css */
+
+.user-home-container {
+    max-width: 800px;
+    margin: 0 auto;
+    padding: 20px;
+    text-align: center;
+  }
+  
+  .welcome-header {
+    color: #333;
+    font-size: 24px;
+    margin-bottom: 20px;
+  }
+  
+  .intro-text {
+    color: #666;
+    font-size: 16px;
+    margin-bottom: 30px;
+  }
+  
+  .activity-section {
+    margin-bottom: 40px;
+  }
+  
+  .activity-list {
+    list-style-type: none;
+    padding: 0;
+  }
+  
+  .recommended-section {
+    background-color: #f7f7f7;
+    padding: 20px;
+  }
+  
+  .recommended-content {
+    color: #555;
+    font-size: 16px;
+  }
+  
